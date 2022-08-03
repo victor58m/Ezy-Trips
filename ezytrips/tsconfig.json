@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "none",
+    "noEmit": true,
+    "checkJs": true,
+    "target": "es2015",
+    "allowJs": true,
+    "types": [
+      "@sapui5/ts-types"
+    ]
+  }
+}
